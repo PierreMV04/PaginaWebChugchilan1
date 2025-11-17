@@ -1,0 +1,1 @@
+console.log('Clima Chugchilán - Página Beta funcionando');
